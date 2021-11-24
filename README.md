@@ -1,2 +1,4 @@
 # A-Chinese-Text-Classification-Method-With-Low-Hardware-Requirement-Based-on-Improved-Model-Concatena
-A Chinese Text Classification Method With Low Hardware Requirement Based on Improved Model Concatenation
+
+This is the training set of the paper 
+"A Chinese Text Classification Method With Low Hardware Requirement Based on Improved Model Concatenation"
